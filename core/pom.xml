@@ -66,6 +66,7 @@ Bundle-DocURL:
             <plugin>
                 <groupId>biz.aQute.bnd</groupId>
                 <artifactId>bnd-baseline-maven-plugin</artifactId>
+                <version>5.2.0</version>
                 <configuration>
                     <failOnMissing>false</failOnMissing>
                 </configuration>
